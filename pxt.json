@@ -2,11 +2,11 @@
     "name": "pxt-my- blocks2",
     "description": "",
     "dependencies": {
-        "core": "*",
-        "radio": "*",
-        "microphone": "*"
+        "core": "*"
     },
     "files": [
+        "myBlocks.ts",
+        "myBlocks.cpp",
         "main.blocks",
         "main.ts",
         "README.md"
